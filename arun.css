@@ -1,0 +1,49 @@
+.arun{
+    border: 1px solid #ffffff05;
+    height: 200px;
+    width: 50%;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #ffffff05;
+    margin: 10px 0px;
+    backdrop-filter: blur(3.5px);
+}
+section{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    align-items: center;
+}
+.arun1{
+    background-image: url("./img.webp") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:rgb(186, 226, 43);
+    text-align: center;
+}
+p{
+    padding: 10px 106px 0px 75px;
+    color: #fff;
+}
+/* .arun-1{
+    border: 1px solid;
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.arun-2{
+    border: 1px solid;
+    margin: auto;
+    width: 50%;
+    height: 200px;
+    margin-top: 30px;
+    border-radius: 20px;
+} */
